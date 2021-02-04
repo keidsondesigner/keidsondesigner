@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Sou <strong>Designer gráfico</strong> e <strong>estudante de programação</strong>.<br>
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>programador</strong><br>
+  Sou <strong>Designer gráfico</strong> e <strong>Estudante de Programação</strong>.<br>
+<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong><br>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
 
