@@ -2,7 +2,7 @@
 
 <p align="left">
   Sou <strong>Designer gráfico</strong> e <strong>estudante de programação</strong>.<br>
-<strong>Tenho um grande sonho</strong> de me tornar um programador<br>
+<strong>Tenho um grande sonho</strong> de me tornar um <strong>programador</strong><br>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
 
