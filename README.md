@@ -15,7 +15,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="left">
-  💌 Envie uma mesnssagem: ⤵️
+  💌 Envie uma mensagem: ⤵️
 </p>
 
 <p align="left">
