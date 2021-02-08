@@ -7,15 +7,15 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="left">
-  🚀  Student Skills: <strong>JavaScript, Nodejs, React, ReactNative.</strong>
+  🚀  Estudando: <strong>JavaScript, Nodejs, React, ReactNative.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma, GitHub, Photoshop, Premire Pro, After Effecs.</strong>
+  💼 Habilidades: <strong>Visual Studio Code, Figma, GitHub, Photoshop, Premire Pro, After Effecs.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+  💌 Envie uma mesnssagem: ⤵️
 </p>
 
 <p align="left">
