@@ -7,7 +7,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="left">
-  🦄 Student Skills: <strong>JavaScript, Nodejs, React, ReactNative.</strong>
+  🚀  Student Skills: <strong>JavaScript, Nodejs, React, ReactNative.</strong>
 </p>
 
 <p align="left">
