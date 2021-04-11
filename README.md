@@ -7,7 +7,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="left">
-  🚀  Estudando: <strong>JavaScript, React.</strong>
+  🚀  Estudando: <strong>JavaScript, Typescript e React.</strong>
 </p>
 
 <p align="left">
