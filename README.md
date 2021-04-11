@@ -28,3 +28,5 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <a href="https://www.facebook.com/keidsonroby/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/keidsonroby/"/></a>
 </p>  
+
+[![Keidson github stats](https://github-readme-stats.vercel.app/api?username=keidsondesigner&count_private=true)](https://github.com/keidsondesigner)
