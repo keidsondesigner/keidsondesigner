@@ -4,11 +4,11 @@
 
 </span>
 
-<span align="center">
+<div align="center">
 
 <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
 
-<span/>
+</div>
 
 
 <p align="center">
