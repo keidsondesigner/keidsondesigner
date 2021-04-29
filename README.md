@@ -18,11 +18,11 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript, Typescript e React.</strong>
+  💼 Habilidades: <strong>Visual Studio Code, Figma, GitHub, Photoshop, Premire Pro, After Effecs.</strong>
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Visual Studio Code, Figma, GitHub, Photoshop, Premire Pro, After Effecs.</strong>
+  🚀  Estudando: <strong>JavaScript, Typescript e React.</strong>
 </p>
 
 <p align="center">
