@@ -1,4 +1,4 @@
-<div align="center">
+<span align="center">
 
 ## Hey<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vido(a)!</h2>
 
@@ -6,12 +6,11 @@
 
 <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
 
-</div>
-
+</span>
 
 
 <p align="center">
-  Sou <strong>Designer gráfico</strong> e <strong>Estudante de Programação</strong>.
+  Sou <strong>Designer gráfico</strong> e <strong>Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
