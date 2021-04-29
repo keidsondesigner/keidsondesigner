@@ -6,6 +6,12 @@
 
 </span>
 
+<span align="center">
+
+<img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
+
+</span>
+
 
 <p align="center">
   Sou <strong>Designer gráfico</strong> e <strong>Estudante de Programação</strong>.<br />
