@@ -2,8 +2,6 @@
 
 ## Hey<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vido(a)!</h2>
 
-<br />
-
 <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
 
 </span>
