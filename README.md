@@ -18,7 +18,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript, Figma, GitHub, Versel, Photoshop.</strong>
+  💼 Habilidades: <strong>Javascript, Figma, GitHub, Vercel, Photoshop.</strong>
 </p>
 
 <p align="center">
