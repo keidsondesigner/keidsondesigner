@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" width="400px" />
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px" />
 
 </div>
 
