@@ -1,8 +1,7 @@
 <span align="center">
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
-<br>
-<br>
+
 </span>
 
 <div align="center">
@@ -12,6 +11,7 @@
 </div>
 
 
+<br>
 <p align="center">
   Sou <strong>Designer gráfico</strong> e <strong>Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
