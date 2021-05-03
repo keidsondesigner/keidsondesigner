@@ -3,7 +3,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
 
 </span>
-
+<br>
 <div align="center">
 
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
