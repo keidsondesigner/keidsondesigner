@@ -48,7 +48,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  
  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
  <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%2320232a.svg?style=flat-square&logo=angular&logoColor=%2361DAFB" height="25"/>
+ <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
 
 
 <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
