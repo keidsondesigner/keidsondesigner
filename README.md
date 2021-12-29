@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  Sou <strong>Designer Gráfico</strong> e <strong>Graduando em Analise e Desenvolvimento de Sistemas</strong>.<br />
+  Sou <strong>Designer Gráfico</strong> e <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
