@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
 
 </span>
 
@@ -13,7 +13,7 @@
 
 <br>
 <p align="start">
-  Sou um desenvolvedor frontend altamente qualificado e apaixonado por criar experiências digitais inspiradoras. Com mais de 3 anos de experiência em desenvolvimento Angular, meu foco principal é aprimorar a interface do usuário e a experiência do usuário. 
+  Sou um desenvolvedor frontend altamente qualificado e apaixonado por criar experiências digitais inspiradoras. <br>Com mais de 3 anos de experiência em desenvolvimento Angular, meu foco principal é aprimorar a interface do usuário <br>e a experiência do usuário. 
 
   Com uma sólida base em desenvolvimento Angular e uma habilidade inerente para criar interfaces de usuário eficazes, estou comprometido em continuar contribuindo para projetos de sucesso e impulsionando a inovação em todas as oportunidades que surgirem. Se você está procurando um desenvolvedor frontend experiente que combine habilidades técnicas sólidas com uma      paixão por design e experiência do usuário, estou pronto para enfrentar novos desafios e fazer a diferença em sua equipe. Conecte-se comigo e vamos explorar como posso agregar valor ao seu próximo projeto.
 </p>
