@@ -12,31 +12,21 @@
 
 
 <br>
-<p align="center">
-  Sou <strong>Designer Gráfico</strong> e <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
-e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
+<p align="start">
+  Sou um desenvolvedor frontend altamente qualificado e apaixonado por criar experiências digitais inspiradoras. Com mais de 3 anos de experiência em desenvolvimento Angular, meu foco principal é aprimorar a interface do usuário e a experiência do usuário. 
+
+  Com uma sólida base em desenvolvimento Angular e uma habilidade inerente para criar interfaces de usuário eficazes, estou comprometido em continuar contribuindo para projetos de sucesso e impulsionando a inovação em todas as oportunidades que surgirem. Se você está procurando um desenvolvedor frontend experiente que combine habilidades técnicas sólidas com uma      paixão por design e experiência do usuário, estou pronto para enfrentar novos desafios e fazer a diferença em sua equipe. Conecte-se comigo e vamos explorar como posso agregar valor ao seu próximo projeto.
 </p>
 
-<p align="center">
-  💼 Habilidades: <strong>Javascript, Figma, GitHub, Vercel, Photoshop.</strong>
+<p align="start">
+  💼 Habilidades: <strong>Angular, Typescript, Javascript, RxJs, NgRx, Jest, PostgreSql, Docker, Figma, GitLab, Vercel, Render, Metodologias Agile.</strong>
 </p>
 
-<p align="center">
-  🚀  Estudando: <strong>JavaScript, Typescript e Angular.</strong>
-</p>
-
-<p align="center">
+<p align="start">
   💌 Envie uma mensagem: ⤵️
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/keidsondesigner/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
-  
-  <a href="https://www.facebook.com/keidsonroby/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/keidsonroby/"/></a>
-  
+<p align="start">  
   <a href="https://www.linkedin.com/in/keidsonroby/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
 </p>  
