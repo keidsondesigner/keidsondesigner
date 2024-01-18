@@ -50,28 +50,26 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="tdr" src="https://media.licdn.com/dms/image/C4D0BAQG_4sVWnHebWQ/company-logo_200_200/0/1630542344061/tdrsolucoes_logo?e=1713398400&v=beta&t=FfCfuN2kMTH_Fqq9mw_UYWQFF0MZYI6DiTOTn0AfZr0"/>](https://www.linkedin.com/company/tdrsolucoes/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+**Desenvolvedor Frontend VUE** \
+[**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - Até o momento  \
+Linguagens & Tecnologias: `Vue 2 e 3`,  `JavaScript`, `Typescript`, `Jest`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="mjv" src="https://media.licdn.com/dms/image/C4E0BAQGgcB7CBZd_2Q/company-logo_200_200/0/1630641270331/mjv_tech_and_innovation_logo?e=1713398400&v=beta&t=8QZSBfF2Btnm5RhzUKqsydh-1xNT977ldwytG-sIqdU"/>](https://www.linkedin.com/company/mjv-tech-and-innovation/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+**Desenvolvedor Frontend Angular** \
+[**MJV Technology & Innovation**](https://www.linkedin.com/company/mjv-tech-and-innovation/) • mai de 2022 - set de 2023 · 1 ano 5 meses \
+Linguagens & Tecnologias: `Angular 10, 12, 14, 16`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="mjv" src="https://media.licdn.com/dms/image/C4D0BAQFMGfE06iABTw/company-logo_200_200/0/1651175834145/bft_solutions_logo?e=1713398400&v=beta&t=NHTY6ZK8stqdge6IYPvksv_YrNhLpaN90gNxVeT0xd4"/>](https://www.linkedin.com/company/bft-solutions/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-
+**Desenvolvedor Frontend Angular** \
+[**BFT Solutions**](https://www.linkedin.com/company/bft-solutions/) • jun de 2021 - mai de 2022 · 1 ano \
+Linguagens & Tecnologias: `Angular 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,\
 <br/>
-
 
 ### ⚙️ GitHub Analytics
 
