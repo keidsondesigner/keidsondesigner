@@ -52,7 +52,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="tdr" src="https://media.licdn.com/dms/image/C4D0BAQG_4sVWnHebWQ/company-logo_200_200/0/1630542344061/tdrsolucoes_logo?e=1713398400&v=beta&t=FfCfuN2kMTH_Fqq9mw_UYWQFF0MZYI6DiTOTn0AfZr0"/>](https://www.linkedin.com/company/tdrsolucoes/)
 
-**Desenvolvedor Frontend VUE** \
+**Desenvolvedor Frontend Vue** \
 [**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - Até o momento  \
 Linguagens & Tecnologias: `Vue 2 e 3`,  `JavaScript`, `Typescript`, `Jest`,\
 <br/>
