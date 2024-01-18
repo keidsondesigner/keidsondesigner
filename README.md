@@ -56,6 +56,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - Até o momento  \
 Linguagens & Tecnologias: `Vue 2 e 3`,  `JavaScript`, `Typescript`, `Jest`,\
 <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="mjv" src="https://media.licdn.com/dms/image/C4E0BAQGgcB7CBZd_2Q/company-logo_200_200/0/1630641270331/mjv_tech_and_innovation_logo?e=1713398400&v=beta&t=8QZSBfF2Btnm5RhzUKqsydh-1xNT977ldwytG-sIqdU"/>](https://www.linkedin.com/company/mjv-tech-and-innovation/)
 
