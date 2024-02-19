@@ -17,7 +17,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Frontend Vue** \
 [**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - Até o momento  \
-Linguagens & Tecnologias: `Vue 2 e 3`,  `JavaScript`, `Typescript`, `Jest`,\
+Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescript`, `Jest`,\
 <br/>
 <br/>
 
