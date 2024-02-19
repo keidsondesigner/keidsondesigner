@@ -37,7 +37,7 @@ Linguagens & Tecnologias: `Angular 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `J
 
 [<img align="left" height="94px" width="94px" alt="mjv" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6a26gPdhmgK2TriyW05MWQgBpJA8GAPbkvEHN7iLjQ32b81BNKdT4-sqmneep96RhsE&usqp=CAU"/>](https://projetosweb.co/)
 
-**Web Designerr** \
+**Web Designer** \
 [**ProjetosWeb.co**](https://projetosweb.co/) • mar de 2020 - mai de 2021 · 1 ano 3 meses \
 Linguagens & Tecnologias: `UI Designer`, `WordPress`,`JetEngine` `Elementor PRO`, `CSS`, `HTML 5`, `JavaScript`,\
 
