@@ -11,41 +11,6 @@
 
 <br>
 
-## 💻 Technologies & Tools
-
-<p align="center">
- <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-vuejs-%23217346?style=flat-square&logo=vuedotjs&logoColor=white" height="25"/>
-
-  
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitLab-FF6600?style=flat-square&logo=gitlab" height="25"/>
-<img src="https://img.shields.io/badge/-Jest-%238A4182?style=flat-square&logo=jest" height="25"/>
-<img src="https://img.shields.io/badge/-postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
-
-</p>
-
-<br>
-
-## 💼 Habilidades
-
-<p align="start">
-  <strong>Angular, Typescript, Javascript, RxJs, NgRx, Jest, PostgreSql, Docker, Figma, GitLab, Vercel, Render, Metodologias Agile.</strong>
-</p>
-
-<p align="start">
-  💌 Envie uma mensagem: ⤵️
-</p>
-<p align="start">  
-  <a href="https://www.linkedin.com/in/keidsonroby/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>
-
-<br>
-
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -62,7 +27,7 @@ Linguagens & Tecnologias: `Vue 2 e 3`,  `JavaScript`, `Typescript`, `Jest`,\
 
 **Desenvolvedor Frontend Angular** \
 [**MJV Technology & Innovation**](https://www.linkedin.com/company/mjv-tech-and-innovation/) • mai de 2022 - set de 2023 · 1 ano 5 meses \
-Linguagens & Tecnologias: `Angular 10, 12, 14, 16`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
+Linguagens & Tecnologias: `Angular 10, 12, 14, 16`, `Ionic`, `Capacitor`, `NgRx`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="mjv" src="https://media.licdn.com/dms/image/C4D0BAQFMGfE06iABTw/company-logo_200_200/0/1651175834145/bft_solutions_logo?e=1713398400&v=beta&t=NHTY6ZK8stqdge6IYPvksv_YrNhLpaN90gNxVeT0xd4"/>](https://www.linkedin.com/company/bft-solutions/)
@@ -77,7 +42,37 @@ Linguagens & Tecnologias: `Angular 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `J
 **Web Designerr** \
 [**ProjetosWeb.co**](https://projetosweb.co/) • mar de 2020 - mai de 2021 · 1 ano 3 meses \
 Linguagens & Tecnologias: `UI Designer`, `WordPress`,`JetEngine` `Elementor PRO`, `CSS`, `HTML 5`, `JavaScript`,\
+
 <br/>
+
+## 💻 Technologies & Tools
+
+<p align="center">
+ <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-vuejs-%23217346?style=flat-square&logo=vuedotjs&logoColor=white" height="25"/>
+
+  
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+<img src="https://img.shields.io/badge/-GitLab-FF6600?style=flat-square&logo=gitlab" height="25"/>
+<img src="https://img.shields.io/badge/-Jest-%238A4182?style=flat-square&logo=jest" height="25"/>
+<img src="https://img.shields.io/badge/-postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
+
+</p>
+<br>
+
+## 💼 Contato
+<p align="start">
+  💌 Envie uma mensagem: ⤵️
+</p>
+<p align="start">  
+  <a href="https://www.linkedin.com/in/keidsonroby/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>
+
+<br>
 
 ### ⚙️ GitHub Analytics
 
