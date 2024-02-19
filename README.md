@@ -9,8 +9,6 @@
   Com uma sólida base em desenvolvimento Angular e uma habilidade inerente para criar interfaces de usuário eficazes, estou comprometido em continuar contribuindo para projetos de sucesso e impulsionando a inovação em todas as oportunidades que surgirem. Se você está procurando um desenvolvedor frontend experiente que combine habilidades técnicas sólidas com uma      paixão por design e experiência do usuário, estou pronto para enfrentar novos desafios e fazer a diferença em sua equipe. Conecte-se comigo e vamos explorar como posso agregar valor ao seu próximo projeto.
 </p>
 
-<br>
-
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
