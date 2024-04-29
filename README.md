@@ -13,29 +13,20 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="tdr" src="https://media.licdn.com/dms/image/C4D0BAQG_4sVWnHebWQ/company-logo_200_200/0/1630542344061/tdrsolucoes_logo?e=1713398400&v=beta&t=FfCfuN2kMTH_Fqq9mw_UYWQFF0MZYI6DiTOTn0AfZr0"/>](https://www.linkedin.com/company/tdrsolucoes/)
-
 **Desenvolvedor Frontend Vue** \
 [**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - Até o momento  \
 Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescript`, `Jest`,\
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="mjv" src="https://media.licdn.com/dms/image/C4E0BAQGgcB7CBZd_2Q/company-logo_200_200/0/1630641270331/mjv_tech_and_innovation_logo?e=1713398400&v=beta&t=8QZSBfF2Btnm5RhzUKqsydh-1xNT977ldwytG-sIqdU"/>](https://www.linkedin.com/company/mjv-tech-and-innovation/)
+<br>
 
 **Desenvolvedor Frontend Angular** \
 [**MJV Technology & Innovation**](https://www.linkedin.com/company/mjv-tech-and-innovation/) • mai de 2022 - set de 2023 · 1 ano 5 meses \
 Linguagens & Tecnologias: `Angular 10, 12, 14, 16`, `Ionic`, `Capacitor`, `NgRx`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="mjv" src="https://media.licdn.com/dms/image/C4D0BAQFMGfE06iABTw/company-logo_200_200/0/1651175834145/bft_solutions_logo?e=1713398400&v=beta&t=NHTY6ZK8stqdge6IYPvksv_YrNhLpaN90gNxVeT0xd4"/>](https://www.linkedin.com/company/bft-solutions/)
+<br>
 
 **Desenvolvedor Frontend Angular** \
 [**BFT Solutions**](https://www.linkedin.com/company/bft-solutions/) • jun de 2021 - mai de 2022 · 1 ano \
 Linguagens & Tecnologias: `Angular 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="mjv" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6a26gPdhmgK2TriyW05MWQgBpJA8GAPbkvEHN7iLjQ32b81BNKdT4-sqmneep96RhsE&usqp=CAU"/>](https://projetosweb.co/)
+<br>
 
 **Web Designer** \
 [**ProjetosWeb.co**](https://projetosweb.co/) • mar de 2020 - mai de 2021 · 1 ano 3 meses \
