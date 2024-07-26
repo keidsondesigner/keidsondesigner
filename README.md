@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `Angular 15`, `RxJs`, `Typescript`, `Jasmine`, `Karma`
 
 **Desenvolvedor Frontend Vue** \
 [**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - jun de 2024 · 10 meses \
-Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescript`,\
+Linguagens & Tecnologias: `Vue 3`,  `Pínia`, `JavaScript`, `Typescript`,\
 <br>
 
 **Desenvolvedor Frontend Angular** \
