@@ -33,12 +33,12 @@ Linguagens & Tecnologias: `Angular 15`, `RxJs`, `Typescript`, `Jasmine`, `Karma`
 <br>
 
 **Desenvolvedor Frontend Vue** \
-[**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - jun de 2023  \
+[**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - jun de 2023 · 10 meses \
 Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescript`,\
 <br>
 
 **Desenvolvedor Frontend Angular** \
-[**MJV Technology & Innovation**](https://www.linkedin.com/company/mjv-tech-and-innovation/) • mai de 2022 - set de 2023 · 1 ano 5 meses \
+[**MJV Technology & Innovation**](https://www.linkedin.com/company/mjv-tech-and-innovation/) • mai de 2022 - set de 2023 · 1 ano e 5 meses \
 Linguagens & Tecnologias: `Angular 10, 12, 14, 16`, `Ionic`, `Capacitor`, `NgRx`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
 <br>
 
@@ -48,7 +48,7 @@ Linguagens & Tecnologias: `Angular 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `J
 <br>
 
 **Web Designer** \
-[**ProjetosWeb.co**](https://projetosweb.co/) • mar de 2020 - mai de 2021 · 1 ano 3 meses \
+[**ProjetosWeb.co**](https://projetosweb.co/) • mar de 2020 - mai de 2021 · 1 ano  e 3 meses \
 Linguagens & Tecnologias: `UI Designer`, `WordPress`,`JetEngine` `Elementor PRO`, `CSS`, `HTML 5`, `JavaScript`,\
 
 ## 📱 Contato
