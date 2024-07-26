@@ -28,8 +28,13 @@
 ## 💼 Experiência profissional
 
 **Desenvolvedor Frontend Vue** \
-[**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - Até o momento  \
-Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescript`, `Jest`,\
+[**Qintess**](https://www.linkedin.com/company/qintess/) • jul de 2024 - Até o momento  \
+Linguagens & Tecnologias: `Angular 15`, `RxJs`, `Typescript`, `Jasmine`, `Karma`, `GitLab`, `Metodologias Agile`,
+<br>
+
+**Desenvolvedor Frontend Vue** \
+[**TDR Sistemas de Informática**](https://www.linkedin.com/company/tdrsolucoes/) • out de 2023 - jun de 2023  \
+Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescript`,\
 <br>
 
 **Desenvolvedor Frontend Angular** \
