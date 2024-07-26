@@ -29,7 +29,7 @@
 
 **Desenvolvedor Frontend Vue** \
 [**Qintess**](https://www.linkedin.com/company/qintess/) • jul de 2024 - Até o momento  \
-Linguagens & Tecnologias: `Angular 15`, `RxJs`, `Typescript`, `Jasmine`, `Karma`, `GitLab`, `Metodologias Agile`,
+Linguagens & Tecnologias: `Angular 15`, `RxJs`, `Typescript`, `Jasmine`, `Karma`, `GitLab`, `Metodologias Agile`,\
 <br>
 
 **Desenvolvedor Frontend Vue** \
