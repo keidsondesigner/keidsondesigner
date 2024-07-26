@@ -39,12 +39,12 @@ Linguagens & Tecnologias: `Vue 2 e 3`,  `VueX`, `Pínia`, `JavaScript`, `Typescr
 
 **Desenvolvedor Frontend Angular** \
 [**MJV Technology & Innovation**](https://www.linkedin.com/company/mjv-tech-and-innovation/) • mai de 2022 - set de 2023 · 1 ano e 5 meses \
-Linguagens & Tecnologias: `Angular 10, 12, 14, 16`, `Ionic`, `Capacitor`, `NgRx`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
+Linguagens & Tecnologias: `Angular 12, 14, 16`, `Ionic`, `Capacitor`, `NgRx`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,`Amazon S3`\
 <br>
 
 **Desenvolvedor Frontend Angular** \
 [**BFT Solutions**](https://www.linkedin.com/company/bft-solutions/) • jun de 2021 - mai de 2022 · 1 ano \
-Linguagens & Tecnologias: `Angular 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,\
+Linguagens & Tecnologias: `Angular 10, 12`, `Ionic`, `Capacitor`, `NgRX`, `RxJs`, `JavaScript`, `Typescript`, `Jest`,`GitLab`,`Metodologias Agile`,\
 <br>
 
 **Web Designer** \
