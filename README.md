@@ -7,7 +7,7 @@ package keidson.roby;
 
 public class AboutMe {
   private String name = "Keidson Roby";
-  private String description = "Desenvolvedor Frontend Angular & UI Designer, Transformando o mundo através da programação.";
+  private String description = "Desenvolvedor Frontend Angular & UI Designer.";
 }
 
 class DeveloperBackEnd extends AboutMe {
