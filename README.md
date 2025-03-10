@@ -12,7 +12,7 @@ public class AboutMe {
 
 class DeveloperBackEnd extends AboutMe {
   private String stack = "Frontend Angular 14+";
-  private String learningNow = "Backend Java with Spring Boot";
+  private String learningNow = "Backend Java Spring Boot";
 }
 
 public static void main(String[] args) {
