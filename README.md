@@ -2,9 +2,29 @@
 
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
 
+```java
+package keidson.roby;
+
+public class AboutMe {
+  private String name = "Keidson Roby";
+  private String description = "Desenvolvedor Frontend Angular & UI Designer, Transformando o mundo através da programação.";
+}
+
+class DeveloperBackEnd extends AboutMe {
+  private String stack = "Frontend Angular 14+";
+  private String learningNow = "Backend Java with Spring Boot";
+}
+
+public static void main(String[] args) {
+  private String callToTalk(){
+      return "Caso queira trocar ideias, entre em contato comigo em alguma das redes sociais abaixo: ";
+  }
+}
+```
 </span>
+<br/>
 <p align="start">
-  Sou um desenvolvedor frontend altamente qualificado e apaixonado por criar experiências digitais inspiradoras. <br>Com mais de 3 anos de experiência em desenvolvimento web com Angular, meu foco principal é aprimorar a interface do usuário <br>e a experiência do usuário. 
+  Sou um desenvolvedor frontend apaixonado por criar experiências digitais inspiradoras. <br>Com mais de 3 anos de experiência em desenvolvimento web com Angular, meu foco principal é aprimorar a interface do usuário <br>e a experiência do usuário. 
 
   Tenho uma base sólida em desenvolvimento Angular, typescrip e javascript, e uma habilidade inerente para criar interfaces de usuário eficazes, estou comprometido em continuar contribuindo para projetos de sucesso e impulsionando a inovação em todas as oportunidades que surgirem. Se você está procurando um desenvolvedor frontend experiente que combine habilidades técnicas sólidas com uma      paixão por design e experiência do usuário, estou pronto para enfrentar novos desafios e fazer a diferença em sua equipe. Conecte-se comigo e vamos explorar como posso agregar valor ao seu próximo projeto.
 </p>
