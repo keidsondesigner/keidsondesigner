@@ -17,7 +17,7 @@ class Developer extends AboutMe {
 
 public static void main(String[] args) {
   private String callToTalk(){
-      return "Caso queira trocar ideias, entre em contato comigo em alguma das redes sociais abaixo: ";
+      return "Fique a vontade para entrar em contato no Linkedin[Keidson Roby]";
   }
 }
 ```
