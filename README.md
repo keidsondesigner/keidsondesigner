@@ -10,7 +10,7 @@ public class AboutMe {
   private String description = "Desenvolvedor Frontend Angular & UI Designer.";
 }
 
-class DeveloperBackEnd extends AboutMe {
+class Developer extends AboutMe {
   private String stack = "Frontend Angular 14+";
   private String learningNow = "Backend Java Spring Boot";
 }
