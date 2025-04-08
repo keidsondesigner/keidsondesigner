@@ -7,7 +7,7 @@ package keidson.roby;
 
 public class AboutMe {
   private String name = "Keidson Roby";
-  private String description = "Desenvolvedor Frontend Angular & UI Designer.";
+  private String description = "Desenvolvedor Web Frontend Angular & Mobile React Native Expo.";
 }
 
 class Developer extends AboutMe {
